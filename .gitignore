@@ -1,0 +1,16 @@
+# Data
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+
+# Build
+*.o
+*.out
+build/
+
+# Large weights
+*.bin
+*.pt
